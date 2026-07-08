@@ -1,6 +1,6 @@
 # App Builder — Frontend
 
-AI-Powered HighLevel App Builder Frontend built with Vue 3 + TypeScript + ShadCN UI.
+AI-powered HighLevel App Builder frontend built with Vue.js and Firebase. Features a responsive UI, secure authentication, real-time data synchronization, AI-powered app generation, and seamless integration with backend APIs.
 
 ## Tech Stack
 
@@ -82,6 +82,3 @@ The app runs on `http://localhost:5173` and proxies `/api` to the backend at `ht
 - **Live preview** — iframe renders generated HTML/JS/CSS
 - **SSE integration** — Real-time token streaming from backend
 - **Snapshot history** — View and restore previous versions
-
-Loom Video Link (Code review): https://www.loom.com/share/f32ea71541834ad187825c249b6b54f3
-Search Dashboard Created : https://www.loom.com/share/5c41148dcea345b785b879ee1d239816
